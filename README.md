@@ -13,5 +13,5 @@ It was a binary classification challenge, where the task is to classify normal v
 - The model has been trained for 30 epochs.
 
 ## Model Evaluation (At 12th Epoch)
-- **Test Accuracy:** 90%
+- **Train Accuracy:** 90%
 - **Test Accuracy:** 85%
